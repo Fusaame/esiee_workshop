@@ -1,6 +1,6 @@
 """Simple superhero utilities."""
 
-
+# Sorry for the mistake
 class Superhero:
     def __init__(self, name, powers, origin, friends, age, alignment):
         self.name = name
